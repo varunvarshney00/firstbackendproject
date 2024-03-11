@@ -1,0 +1,16 @@
+{
+  "name": "badaproject1backend",
+  "version": "1.0.0",
+  "description": "my first trial big backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "me"
+  ],
+  "author": "varun varshney",
+  "license": "ISC"
+}
